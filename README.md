@@ -62,7 +62,10 @@ Features include:
 - Toggling the inventory UI.
 - Adding items to inventory by finding the next empty slot and updating the item list.
 
-![Control](pictures/packagetrashlot.png)
+<div align="center">
+  <img src="pictures/packagetrashlot.png" alt="Control" width="400"/>
+</div>
+
 #### 3.3.2 Inventory Trash Slot
 Handles drag-and-drop events for item disposal:
 - Uses Unity's `IDropHandler` and related interfaces.
@@ -75,7 +78,10 @@ Handles drag-and-drop events for item disposal:
 ### 3.4.1 Movement in Animals
 Implements random AI movement for NPCs, allowing them to wander around with predefined behaviors.
 
-![Control](pictures/pigs.png)
+<div align="center">
+  <img src="pictures/pigs.png" alt="Control" width="400"/>
+</div>
+
 ### 3.4.2 AI Sheep Avoidance
 Animals respond to proximity using Unity’s `NavMeshAgent`:
 - **RunAway**: Triggered at high alert levels.
@@ -85,7 +91,10 @@ Animals respond to proximity using Unity’s `NavMeshAgent`:
 ### 3.4.3 AI Bear Tracking and Attack
 A robust state machine architecture manages bear behaviors, including idle, walking, chasing, and attacking states. Unity’s `NavMeshAgent` ensures intelligent obstacle avoidance and pathfinding.
 
-![Control](pictures/bear.png)
+<div align="center">
+  <img src="pictures/bear.png" alt="Control" width="400"/>
+</div>
+
 ---
 
 ## 4. Characteristic Technical Points
