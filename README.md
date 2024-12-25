@@ -4,7 +4,7 @@
 **Explore, Survive, Conquer! "Wild-Light Chronicles" is Now Live!** 🔥
 
 ---
-[Click here to access the game demo video]([https://www.google.com](https://www.bilibili.com/video/BV1T3i6YsEsd/?spm_id_from=333.999.0.0&vd_source=33334ccc1da217600235b459f5b126fe) "点击访问video")
+[Click here to access the game demo video](https://www.bilibili.com/video/BV1T3i6YsEsd/?spm_id_from=333.999.0.0&vd_source=33334ccc1da217600235b459f5b126fe "点击访问video")
 ## 1. Introduction of Game
 
 ### Game Overview
